@@ -1,0 +1,15 @@
+one:
+  follower: kel
+  followed: lana
+
+two:
+  follower: kel
+  followed: mallory
+
+three:
+  follower: lana
+  followed: kel
+
+four:
+  follower: archer
+  followed: kel
